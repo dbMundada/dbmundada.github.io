@@ -1365,9 +1365,10 @@ input[type="submit"] {
 }
 
 .latest-posts-classic .left-meta-post .post-date .day {
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 700;
 	display: block;
+	padding: 2px;	
 	letter-spacing: 1px;
 }
 
@@ -1409,6 +1410,9 @@ input[type="submit"] {
 
 .latest-posts-classic .read-more:hover {
 	color: #444;
+}
+.latest-posts-classic img {
+	max-height: 300px;
 }
 
 
