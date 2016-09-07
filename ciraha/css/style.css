@@ -199,8 +199,8 @@ ul.multi-column-dropdown h6 {
     font-size: 1.5em;
 /*-- w3layouts --*/
     color:#ff9b05;
-    margin: 0 0 1em;
-    padding-bottom: 1em;
+    margin: 0 0 0.6em;
+    padding-bottom: 0.6em;
     border-bottom: 1px solid #E4E4E4;
     text-transform: capitalize;
 }
@@ -238,7 +238,7 @@ ul.multi-column-dropdown h6 {
     text-align: center;
 }
 .dropdown-menu.columns-3 {
-    min-width:900px;
+    min-width:1160px;
     padding: 30px 30px;
 }
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
@@ -281,7 +281,7 @@ ul.multi-column-dropdown h6 {
     margin-left: 4em;
 }
 .dropdown-menu {
-    left: -130%;
+    left: -200%;
 }
 .w3ls_products_pos h4 {
     font-size: 2em;
